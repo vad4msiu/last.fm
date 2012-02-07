@@ -8,10 +8,12 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
+    hpricot (0.8.6)
     json (1.6.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  hpricot
   lastfm-client!
